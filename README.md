@@ -10,6 +10,8 @@
 -B52
 
 ![alt text](https://media-cdn.tripadvisor.com/media/photo-s/0a/eb/68/0c/b52-cocktail-on-fire.jpg)
+
+
 -Black Russian
 
 
@@ -68,7 +70,9 @@
 
 จึงได้ใส่ Initialization และ Regularization เพื่อช่วยกระตุ้นการลด Loss (ได้ลองใส่ Dropout ลงไปแล้ว แต่ผลแย่ลง จึงตัดออกไป)
 ผลปัจจุบันตอนนี้อยู่ที่ 87% เมื่อลด Learning Rate ให้เหลือ 0.001 และเพิ่ม Epoch เป็น 30 ก็ช่วยให้มีความแม่นยำมากขึ้นจริง
-https://drive.google.com/file/d/14vntzjitQrccAVL-oO1LUxEO6zRfoOxE/view?usp=sharing
+
+
+https://sv1.picz.in.th/images/2018/12/17/9fXK9t.png
 
 
 วิธีการใช้งานโปรแกรม
