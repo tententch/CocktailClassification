@@ -6,26 +6,61 @@
 มันจะเวิร์คมั้ยนะ นี่คือสิ่งที่ผมคิดตามแบบฉบับคนชอบแอลกอฮอล์เป็นชีวิตจิตใจ
 
 เริ่มต้น ผมจะใช้ Cocktail 10 ชนิดดังนี้
+
 -B52
 
-![alt text](https://media-cdn.tripadvisor.com/media/photo-s/0a/eb/68/0c/b52-cocktail-on-fire.jpg)![alt text]
+![alt text](https://media-cdn.tripadvisor.com/media/photo-s/0a/eb/68/0c/b52-cocktail-on-fire.jpg)
 -Black Russian
+
+
 ![alt text](https://i0.wp.com/www.himbuds.com/wp-content/uploads/2017/01/Black-Russian.jpg?fit=600%2C315)
+
+
 -Bloody mary
+
+
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKffZ4GWJtQaE_MW4AxNVY4G7Wm7KuZDVPX340wbO8jaVeZPZRA)
+
+
 -Blue Hawaii
+
+
 ![alt text](https://bitzngiggles.com/wp-content/uploads/2018/05/Blue-Hawaiian-photo.jpg)
+
+
 -Dry Martini
+
+
 ![alt text](https://i.pinimg.com/originals/84/5a/79/845a790de7cd56b49019ad1d9d94b062.jpg)
+
+
 -Midori Sour
+
+
 ![alt text](https://cdn.liquor.com/wp-content/uploads/2017/02/01121823/midori-sour-720x720-recipe.jpg)
+
+
 -Mojito
+
+
 ![alt text](https://www.jamieoliver.com/drinks-tube/wp-content/uploads/2014/06/Mojito.jpg)
+
+
 -Pina Colada
+
+
 ![alt text](http://www.gourmetgadgetry.com/wp-content/uploads/2015/01/Pina-Colada.jpg)
+
+
 -Screw Driver
+
+
 ![alt text](https://www.ndtv.com/cooks/images/screwdriver-620.png)
+
+
 -Sex on the beach
+
+
 ![alt text](https://andpour.com/media/catalog/product/cache/3e0e5d06d2a14e7c80c1b508d42bc248/a/p/ap_sex-on-the-beach.jpg)
 
 แล้วใช้ CNN ในการเทรน โดยการผ่าน Convolutional Layer สลับกับ Max Pooling 4 รอบ จากนั้นผ่าน Hidden Layer 64 รอบนึง และ 32 รอบนึง
