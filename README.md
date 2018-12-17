@@ -7,6 +7,7 @@
 
 เริ่มต้น ผมจะใช้ Cocktail 10 ชนิดดังนี้
 -B52
+
 ![alt text](https://media-cdn.tripadvisor.com/media/photo-s/0a/eb/68/0c/b52-cocktail-on-fire.jpg)
 -Black Russian
 ![alt text](https://i0.wp.com/www.himbuds.com/wp-content/uploads/2017/01/Black-Russian.jpg?fit=600%2C315)
